@@ -6,5 +6,6 @@ public class Program {
 	public static void main(String[] args) throws ParseException {
 
 		System.out.println("Teste");
+		System.out.println("Teste2");
 	}
 }
